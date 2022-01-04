@@ -1,6 +1,11 @@
 # Design-and-Analysis-of-Algorithm
 
-Here I am attaching the algorithms' code and analysis which was done by me and also the output screenshots.
+Languages used:
+
+    -C
+    -C++
+
+Contains: (Algorithm, Written Analysis by me, Code, and Output Screenshots)
 
 Algorithms:
 
